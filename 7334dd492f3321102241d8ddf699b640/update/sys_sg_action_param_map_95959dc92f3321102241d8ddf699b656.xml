@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Transactions)">d1959dc92f3321102241d8ddf699b650</button>
+        <item_parameter display_value="Transactions location">9d959dc92f3321102241d8ddf699b64e</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-01 06:48:40</sys_created_on>
+        <sys_id>95959dc92f3321102241d8ddf699b656</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9d959dc92f3321102241d8ddf699b64e</sys_name>
+        <sys_package display_value="Transaction Details" source="x_577445_transac_0">7334dd492f3321102241d8ddf699b640</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transaction Details">7334dd492f3321102241d8ddf699b640</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_95959dc92f3321102241d8ddf699b656</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-01 06:48:40</sys_updated_on>
+        <ui_parameter display_value="Location">d1959dc92f3321102241d8ddf699b653</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

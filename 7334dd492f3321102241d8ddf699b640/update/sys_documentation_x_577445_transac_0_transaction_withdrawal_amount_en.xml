@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="withdrawal_amount" label="Withdrawal amount" language="en" table="x_577445_transac_0_transaction">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>withdrawal_amount</element>
+            <help/>
+            <hint/>
+            <label>Withdrawal amount</label>
+            <language>en</language>
+            <name>x_577445_transac_0_transaction</name>
+            <plural>Withdrawal amounts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-01 06:54:17</sys_created_on>
+            <sys_id>6fd69d4d2f3321102241d8ddf699b6b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Withdrawal amount</sys_name>
+            <sys_package display_value="Transaction Details" source="x_577445_transac_0">7334dd492f3321102241d8ddf699b640</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Transaction Details">7334dd492f3321102241d8ddf699b640</sys_scope>
+            <sys_update_name>sys_documentation_x_577445_transac_0_transaction_withdrawal_amount_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-01 06:54:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

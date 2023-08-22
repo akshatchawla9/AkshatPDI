@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="41955dc92f3321102241d8ddf699b6cc Item Stream">89955dc92f3321102241d8ddf699b6cf</item_stream>
+        <segment display_value="Transactions Item Stream Segment">8d955dc92f3321102241d8ddf699b6ce</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-01 06:48:40</sys_created_on>
+        <sys_id>c1955dc92f3321102241d8ddf699b6d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Transaction Details" source="x_577445_transac_0">7334dd492f3321102241d8ddf699b640</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transaction Details">7334dd492f3321102241d8ddf699b640</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_c1955dc92f3321102241d8ddf699b6d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-01 06:48:40</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>
