@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="afe49d892f3321102241d8ddf699b65e" extends="task" label="Taak" max_length="40" name="x_577445_transac_0_transaction" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Account type" max_length="40" name="account_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Savings" sequence="0" value="Savings"/>
+                <element inactive_on_update="false" label="Credit Card" sequence="1" value="Credit Card"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Bank name" max_length="40" name="bank_name" type="string">
+            <choice>
+                <element inactive_on_update="false" label="ICICI" sequence="0" value="ICICI"/>
+                <element inactive_on_update="false" label="HDFC" sequence="1" value="HDFC"/>
+                <element inactive_on_update="false" label="SBI" sequence="2" value="SBI"/>
+                <element inactive_on_update="false" label="INDUSIND" sequence="3" value="INDUSIND"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Category" max_length="40" name="category" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Credit Card" value="credit_card"/>
+                <element inactive_on_update="false" label="Investment" value="investment"/>
+                <element inactive_on_update="false" label="Loan" value="loan"/>
+                <element inactive_on_update="false" label="Salary" value="salary"/>
+            </choice>
+        </element>
+        <element label="Deposit amount" max_length="40" name="deposit_amount" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Month" max_length="40" name="month" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Sub-category" max_length="40" name="sub_category" type="string">
+            <choice>
+                <element inactive_on_update="false" label="HDFC Credit Card" value="hdfc_creditcard"/>
+                <element inactive_on_update="false" label="ICIC Credit Card" value="icici_creditcard"/>
+                <element inactive_on_update="false" label="IndusInd Credit Card" value="indusind_creditcard"/>
+                <element inactive_on_update="false" label="iWish" value="iwish"/>
+                <element inactive_on_update="false" label="SBI Home Loan" value="sbi_loan"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Transaction Date" max_length="40" name="transaction_date" type="glide_date"/>
+        <element label="Withdrawal amount" max_length="40" name="withdrawal_amount" type="integer"/>
+    </element>
+</database>

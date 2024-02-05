@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-01 06:54:17</sys_created_on>
-        <sys_id>27d69d4d2f3321102241d8ddf699b6b1</sys_id>
         <sys_name>Withdrawal amount</sys_name>
         <sys_package display_value="Transaction Details" source="x_577445_transac_0">7334dd492f3321102241d8ddf699b640</sys_package>
         <sys_policy/>

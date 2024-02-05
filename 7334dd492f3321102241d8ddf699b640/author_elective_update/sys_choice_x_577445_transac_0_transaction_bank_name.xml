@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-07-01 06:55:02</sys_created_on>
-            <sys_id>da07954d2f3321102241d8ddf699b660</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>bank_name</sys_name>
             <sys_package display_value="Transaction Details" source="x_577445_transac_0">7334dd492f3321102241d8ddf699b640</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2023-07-01 06:55:02</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>5607954d2f3321102241d8ddf699b660</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-07-01 06:55:02</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2023-07-01 06:55:02</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>9207954d2f3321102241d8ddf699b666</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-07-01 06:55:02</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2023-07-01 06:55:02</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>ea07918d2f3321102241d8ddf699b66b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-07-01 06:55:02</sys_updated_on>
@@ -90,7 +86,6 @@
             <sys_created_on>2023-07-01 06:55:02</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e207918d2f3321102241d8ddf699b671</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-07-01 06:55:02</sys_updated_on>

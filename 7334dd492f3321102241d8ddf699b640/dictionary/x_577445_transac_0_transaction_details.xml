@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="809815412f7321102241d8ddf699b676" extends="sys_import_set_row" label="Importsetrij" max_length="40" name="x_577445_transac_0_transaction_details" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=A" label="A" max_length="40" name="u_a" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=B" label="B" max_length="53" name="u_b" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Balance ( )" label="Balance ( )" max_length="40" name="u_balance____" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C" label="C" max_length="40" name="u_c" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Cheque Number" label="Cheque Number" max_length="40" name="u_cheque_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=D" label="D" max_length="40" name="u_d" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Deposit Amount ( )" label="Deposit Amount ( )" max_length="40" name="u_deposit_amount____" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=E" label="E" max_length="40" name="u_e" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=F" label="F" max_length="79" name="u_f" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=G" label="G" max_length="40" name="u_g" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=H" label="H" max_length="40" name="u_h" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=I" label="I" max_length="40" name="u_i" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=S No." label="S No." max_length="40" name="u_s_no_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Transaction Date" label="Transaction Date" max_length="40" name="u_transaction_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Transaction Remarks" label="Transaction Remarks" max_length="4000" name="u_transaction_remarks" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Value Date" label="Value Date" max_length="40" name="u_value_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Withdrawal Amount ( )" label="Withdrawal Amount ( )" max_length="40" name="u_withdrawal_amount____" type="string"/>
+    </element>
+</database>
